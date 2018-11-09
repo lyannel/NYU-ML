@@ -1,4 +1,4 @@
-In order to start running this app, follow my steps:
+In order to start running this app, follow these steps:
 
 1) It's a good idea to create a virtual environment for your setup. Open your console or terminal and:
    If you're using Python 3, simply type "python3 -m venv venv" without quotes.
