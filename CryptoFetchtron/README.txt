@@ -12,11 +12,5 @@ In order to start running this app, follow these steps:
 
 4) Finally, to fire up this app, type "python app.py" and have fun!
 
-5)export FLASK_APP=Purrfect.py
 
-6)To Run and DB commands:
-flask run
-flask db init
-flask db migrant -m "comments"
-flask db upgrade
 

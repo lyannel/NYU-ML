@@ -99,7 +99,7 @@ if __name__ == '__main__':
     exchange = CryptoFetchtron()
 
     #  this function takes absolute path where the file.db will be stored
-    exchange.connect_to_db("/home/peterson/Desktop/FinApp/NYU-ML/CryptoFetchtron/crypto_data/")
+    exchange.connect_to_db("insert your own absolute path")
 
     # exchange.get_timeframes()
     # exchange.show_pairs('BTC')
